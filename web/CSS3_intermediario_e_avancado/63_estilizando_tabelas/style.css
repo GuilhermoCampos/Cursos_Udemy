@@ -5,11 +5,11 @@ body {
 table {
 	width: 600px;
 	border-collapse: /*collapse*/separate;
+	border-spacing:0;
 }
 
 th, td {
 	padding: 7px;
-	margin: 0px;
 }
 
 th {
