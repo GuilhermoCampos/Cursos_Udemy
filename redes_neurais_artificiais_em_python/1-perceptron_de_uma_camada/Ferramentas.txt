@@ -1,0 +1,8 @@
+Anaconda Python
+
+or 
+
+bibliotecas:
+-numpy
+-pandas
+-matplotlib
