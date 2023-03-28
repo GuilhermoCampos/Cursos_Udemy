@@ -23,3 +23,12 @@ minhaIdade = 27
 console.log(typeof minhaIdade)
 // minhaIdade = "idade 27"
 // console.log(typeof minhaIdade)
+
+// array
+
+let hobbies: any[]  = ["Cozinhar", "Praticar Esportes"]
+console.log(hobbies[0])
+console.log(typeof hobbies)
+
+hobbies = [100, 200, 300]
+console.log(hobbies)

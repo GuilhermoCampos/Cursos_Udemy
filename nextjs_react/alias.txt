@@ -1,0 +1,1 @@
+alias tsc=/home/admin/github/Cursos_Udemy/nextjs_react/node_modules/typescript/bin/tsc
